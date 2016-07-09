@@ -1,0 +1,5 @@
+Julia Centi,Defensive Back,3,7
+Lucy,Goalie,2,9
+Caitlin,Midfielder,8,6
+Sarah,Defensive Back,2,6
+Sofia,Goalie,4,7
